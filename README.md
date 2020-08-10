@@ -1,2 +1,2 @@
-# awesome-python3-webapp
-awesome-python3-webapp
+# 开发说明
+开发之前请先运行init.py
